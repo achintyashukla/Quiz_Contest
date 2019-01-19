@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:7:5-45:19
+	android:label
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:9:9-36
+	android:allowBackup
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:11:9-52
+activity#com.example.quiz_contest.MainActivity
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:13:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.quiz_contest.HomeScreen
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:21:5-24:20
+	android:label
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:22:13-63
+activity#com.example.quiz_contest.LoginScreen
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:25:9-28:20
+	android:label
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:26:13-64
+activity#com.example.quiz_contest.GameStart
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:31:12-44
+	android:name
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:30:13-62
+activity#com.example.quiz_contest.QuizActivity
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:34:13-65
+activity#com.example.quiz_contest.FinalActivity
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:37:9-40:20
+	android:label
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:38:13-66
+activity#com.example.quiz_contest.HighScores
+ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml:42:13-63
+uses-sdk
+INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Achintya\Desktop\my_apps\Quiz_Contest\app\src\main\AndroidManifest.xml

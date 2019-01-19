@@ -1,0 +1,4 @@
+#Sat Jan 19 16:16:06 IST 2019
+base.0=C\:\\Users\\Achintya\\Desktop\\my_apps\\Quiz_Contest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
